@@ -24,7 +24,7 @@
     "react-router-redux": "^4.0.7",
     "redux-actions": "^1.2.0",
     "redux-logger": "^2.7.4",
-    "redux-thunk": "^2.1.0"
+    "redux-thunk": "^2.2.0"
   },
   "jest": {
     "coverageDirectory": "./coverage",
